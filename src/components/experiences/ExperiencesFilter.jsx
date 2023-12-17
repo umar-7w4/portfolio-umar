@@ -1,9 +1,9 @@
 const selectOptions = [
-	'Web Application',
-	'Mobile Application',
-	'Basketo',
-	'Capgemini',
-    'Salesforce'
+	'Graduate Teaching Assistant',
+	'Internship',
+	'Full-Time',
+	'Open-Source Contribution',
+    'Part-time'
 ];
 
 const ExperiencesFilter = ({ setSelectExperience }) => {

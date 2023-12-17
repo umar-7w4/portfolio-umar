@@ -1,0 +1,138 @@
+[33mcommit d51147639570d78a257455549d556c6a66c112e9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 0b38bd0 686ec63
+Author: Umar Mohammad <mohammadumar7w4@gmail.com>
+Date:   Sat Dec 16 06:30:44 2023 -0500
+
+    Resolved merge conflicts
+
+[33mcommit 0b38bd022c2586bd2e0ec7583dc2419927370dca[m
+Author: Umar Mohammad <mohammadumar7w4@gmail.com>
+Date:   Sat Dec 16 06:29:41 2023 -0500
+
+    Your commit message
+
+[33mcommit 1a108fcb6455e87323300eb9f82b68566bad9563[m
+Author: Umar Mohammad <mohammadumar7w4@gmail.com>
+Date:   Sat Dec 16 06:15:30 2023 -0500
+
+    first commit
+
+[33mcommit 686ec63ebc53b0d553e36bae0abbbc2f171fcc36[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Nov 1 23:35:37 2023 -0400
+
+    Add files via upload
+
+[33mcommit 97b79c0daf7d1ffc26a28c3707cffbf17fbe94bb[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Nov 1 23:35:09 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit 68a59dfefecf2b3d5217ca83a4496e21c59ce8b7[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Mon Oct 30 23:57:20 2023 -0400
+
+    Add files via upload
+
+[33mcommit e0b2f0fa9c6f9585ef3bb88bd1aa1d503287b4f7[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Mon Oct 30 23:56:58 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit f5d85adce15d782be9b217b9f58409e017718696[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Oct 25 20:25:05 2023 -0400
+
+    Add files via upload
+
+[33mcommit 4594abd3ba0446113a9c8218f73a48738aa8f39d[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Oct 25 20:20:58 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit 4d3f4b7042ab611e12bda9fc95be93fd3ae25c8a[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Fri Oct 20 00:11:32 2023 -0400
+
+    Add files via upload
+
+[33mcommit 77575085479c241963b8d0cc32d22d416a1de518[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Fri Oct 20 00:11:12 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit 88210333c79b78e25677c808b622ea83ed4aa981[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Sat Sep 30 19:30:31 2023 -0400
+
+    Update README.md
+
+[33mcommit 30e9cd5a5066b7f99be811092988d6da0efb5bf3[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 27 21:52:59 2023 -0400
+
+    Update singleProjectData.js
+
+[33mcommit 3e63c64affd2240b45e507aec11b8ff32e1dd96f[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 27 02:52:43 2023 -0400
+
+    Add files via upload
+
+[33mcommit 30929e9c2fc0223b2dc8f657c4b906aa10804dba[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 27 02:52:06 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit 1c2f8031aa93118c1de4cd1d2257ba9356126c94[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Thu Sep 21 17:53:29 2023 -0400
+
+    Add files via upload
+
+[33mcommit 443028e1d8a215e96ccb459f8f7d3bcb551ea170[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Thu Sep 21 17:51:56 2023 -0400
+
+    Delete public/files/Resume-MohammadUmar.pdf
+
+[33mcommit 418614c5eb25830fd17df57171a855033e9e81a7[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Thu Sep 21 17:51:07 2023 -0400
+
+    Add files via upload
+
+[33mcommit 92b6f2dacbf9b70dd7a0d3a40f402ee12c09ba0b[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 20 22:01:12 2023 -0400
+
+    Update singleProjectData.js
+
+[33mcommit d733ee37db28ea91d7f0c25ca8727f7ac3d8ab2f[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 20 10:33:49 2023 -0400
+
+    Update singleProjectData.js
+
+[33mcommit 37b09a0eb4686ac377805676ea60519d360d4828[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Wed Sep 20 03:29:28 2023 -0400
+
+    Update singleProjectData.js
+
+[33mcommit 303bff99c6195e933d291f1ea925d766c5bd9bf4[m
+Author: Umar Mohammad <30959585+umar-7w4@users.noreply.github.com>
+Date:   Mon Sep 18 09:49:20 2023 -0400
+
+    Update aboutMeData.js
+
+[33mcommit 1a64974de43bbdc5a422b210c38a1325628d4dc4[m
+Author: Umar Mohammad <mohammadumar7w4@gmail.com>
+Date:   Mon Sep 18 02:37:03 2023 -0400
+
+    Your commit message here

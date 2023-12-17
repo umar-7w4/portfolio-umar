@@ -12,44 +12,44 @@ export const experiencesData = [
     {
         id: "georgiastate",
         title: "Graduate Teaching Assistant",
-        category: "Georgia State University",
+        category: "Graduate Teaching Assistant",
         img: A65,
     },
     {
       id: "basketofinance",
       title: "Software Development Engineer",
-      category: "Basketo Finance",
+      category: "Full-Time",
       img: A60,
     },
     {
       id: "capgemini",
       title: "Software Engineer Intern",
-      category: "Capgemini",
+      category: "Internship",
       img: A62,
     },
     {
       id: "librehealth",
       title: "Software Engineer Intern - Part-time",
-      category: "LibreHealth - Open Source Project",
+      category: "Open-Source Contribution",
       img: A66,
   },
     {
       id: "gerent",
       title: "Salesforce Developer",
-      category: "Gerent",
+      category: "Part-time",
       img: A61,
     },
 
     {
       id: "tesseract",
       title: "Cyber Security Specialist",
-      category: "Tesseract Global",
+      category: "Internship",
       img: A63,
     },
     {
       id: "lockhaven",
       title: "Data Scientist Intern",
-      category: "Lock Haven University",
+      category: "Internship",
       img: A64,
     },
   ];

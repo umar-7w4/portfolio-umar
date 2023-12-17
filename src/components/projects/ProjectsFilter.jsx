@@ -1,8 +1,10 @@
 const selectOptions = [
-	'Web Application',
-	'Mobile Application',
-	'UI/UX Design',
-	'Branding',
+	'Full Stack Development - Java',
+	'Full Stack Development - MERN',
+	'Full Stack Development - PHP',
+	'Full Stack Development - Node.js & Vue.js',
+	'Embedded Systems + Machine Learning',
+	
 ];
 
 const ProjectsFilter = ({ setSelectProject }) => {
