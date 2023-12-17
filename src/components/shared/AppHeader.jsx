@@ -60,7 +60,7 @@ const AppHeader = () => {
           <Link to="/about" className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2">About Me</Link>
           <Link to="/experiences" className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2">Experiences</Link>
           <Link to="/projects" className="block text-left text-xl font text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light sm:mx-4 mb-2 sm:py-2">Projects</Link>
-          <Link to="/skills&certifications" className="block text-left text-xl font text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light sm:mx-4 mb-2 sm:py-2">Skills & Certifications</Link>
+          <Link to="/skills&certifications" className="block text-left text-xl font text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light sm:mx-4 mb-2 sm:py-2">Skills</Link>
         </div>
       </div>
 
