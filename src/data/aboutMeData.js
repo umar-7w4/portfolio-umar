@@ -27,7 +27,7 @@ export const aboutMeData = [
     id: 4,
     bio: (
       <p style={{ textAlign: 'justify' }}>
-        After completing my internship at Capgemini, I have started working as a software engineer at Basketo Finance where I worked on building cryptocurrency marketplace. I particularly worked on connecting application with Ethereum network using web3j which is a Java framework that allows connection with Ethereum blockchain, developed wallet functionality by integrating Metamask, written RESTful APIs in Spring Boot to fetch real-time data related to cryptocurrencies e.t.c. Apart from these, I was involved in code reviews, unit testing and deployments.
+        After completing my internship at Capgemini, I have started working as a software engineer at Basketo Finance where I worked on building cryptocurrency marketplace. I particularly worked on connecting application with Ethereum network using ethers.js which is a JavaScript framework that allows connection with Ethereum blockchain, developed wallet functionality by integrating Metamask, written RESTful APIs in Node.js Axios to fetch real-time data related to cryptocurrencies e.t.c. Apart from these, I was involved in code reviews, unit testing and deployments.
       </p>
     ),
   },
