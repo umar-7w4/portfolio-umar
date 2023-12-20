@@ -1744,17 +1744,17 @@ export const singleProjectData = {
           {
             id: 1,
             details:
-              "Contributed to LibreHealth’s open-source project, particularly in development, bug resolution, and deployment.",
+              "Contributed to LibreHealth’s open-source project, focusing on Java backend development and Angular frontend.",
           },
           {
             id: 2,
             details:
-              "Developed 5+ modular components with Node.js, introducing microservices architecture to the project.",
+              "Developed 5+ modular components using Angular and Java, incorporating Spring Boot microservices architecture.",
           },
           {
             id: 3,
             details:
-              "Built 10+ RESTful APIs using Express.js, ensuring robust data communication between frontend and backend.",
+              "Built 10+ RESTful APIs with Spring Boot, facilitating efficient data exchange between Angular frontend and Java backend.",
           },
           {
             id: 4,
