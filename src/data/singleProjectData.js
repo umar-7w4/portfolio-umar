@@ -988,7 +988,7 @@ export const singleProjectData = {
           {
             id: 3,
             details:
-              "Implemented Axios in Node for CoinGecko API integration, optimizing real-time pricing accuracy of 50+ cryptocurrencies",
+              "Implemented CoinGecko API integration using Axios, optimizing real-time pricing accuracy of 50+ cryptocurrencies.",
           },
           {
             id: 4,
