@@ -983,7 +983,7 @@ export const singleProjectData = {
           {
             id: 2,
             details:
-              "Designed React user interfaces for dashboards, enabling users to create 200 dashboards and boosting engagement by 30%.",
+              "Enhanced user engagement by 30% by designing intuitive React-based user interfaces for custom dashboard creation.",
           },
           {
             id: 3,
