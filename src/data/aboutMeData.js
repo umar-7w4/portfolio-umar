@@ -11,7 +11,7 @@ export const aboutMeData = [
     id: 2,
     bio: (
       <p style={{ textAlign: 'justify' }}>
-        My name is Umar Mohammad. I'm currently a graduate student in Computer Science at Georgia State University and also serve as a Graduate Teaching Assistant in the Computer Science department. In this role, I lead lectures, review and grade student work, and provide feedback.
+       I'm Umar, a Software Engineer and a Passionate Teacher with a touch of humor. 😊
       </p>
     ),
   },
@@ -19,7 +19,7 @@ export const aboutMeData = [
     id: 3,
     bio: (
       <p style={{ textAlign: 'justify' }}>
-        My professional experience includes an internship at Capgemini, where I contributed to developing a healthcare scheduling application. My primary focus was on enhancing the search functionality, as patients were facing difficulties in locating available doctors. To address this, I implemented an autocomplete feature and integrated a full-text search mechanism using Elasticsearch. Another challenge I addresses was lack of communication between doctors and patients. We noticed a trend of missed appointments, which resulted in revenue losses due to refunds and rescheduling. To mitigate this, I developed a reminder and notification system that sends multiple alerts to patients, ensuring they are reminded of their appointments on time. Additionally, during my internship, I was involved in code reviews and played a significant role in writing test classes, significantly improving the test coverage of our applications.
+        My journey with computers began in 4th grade when I first saw one at a friend's house. It felt like magic seeing it instantly display anything I asked for, sparking my curiosity about how it worked. My teacher’s advice to be good at math initially seemed like a bluff to push me to study harder. Little did I know, it was true! 📚
       </p>
     ),
   },
@@ -27,7 +27,7 @@ export const aboutMeData = [
     id: 4,
     bio: (
       <p style={{ textAlign: 'justify' }}>
-        After completing my internship at Capgemini, I have started working as a software engineer at Basketo Finance where I worked on building cryptocurrency marketplace. I particularly worked on connecting application with Ethereum network using ethers.js which is a JavaScript framework that allows connection with Ethereum blockchain, developed wallet functionality by integrating Metamask, written RESTful APIs in Node.js Axios to fetch real-time data related to cryptocurrencies e.t.c. Apart from these, I was involved in code reviews, unit testing and deployments.
+        Now, as the first-generation software engineer in my family, I’ve built multiple software applications and pursued a bachelor's in CS with a full tuition ride. Currently, I support my master’s education by teaching, emphasizing the importance of math in programming, something my younger self struggled to understand. 👨‍🏫
       </p>
     ),
   },
@@ -35,7 +35,22 @@ export const aboutMeData = [
     id: 5,
     bio: (
       <p style={{ textAlign: 'justify' }}>
-        In my free time, I enjoy working out and teaching my juniors. I find teaching to be incredibly rewarding, as it not only helps others but also reinforces my own understanding of complex topics.
+        Some recent things 😎 I've done are: Small-scale distributed file storage system in Java, An image classification model leveraging swarm intelligence, A secure multithreaded chat application. I also love solving problems on LeetCode and share my approaches on LinkedIn—check out my posts!
+      </p>
+    ),
+  },
+  {
+    id: 6,
+    bio: (
+      <p style={{ textAlign: 'justify' }}>
+        When I'm not coding, I enjoy cooking Italian food with South Indian flavors and lifting weights to balance out my culinary indulgences. 🍝🏋️
+      </p>
+    ),
+  },  {
+    id: 7,
+    bio: (
+      <p style={{ textAlign: 'justify' }}>
+        Let’s connect and explore how we can make a difference together! 🌟
       </p>
     ),
   }
